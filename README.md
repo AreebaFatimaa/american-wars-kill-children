@@ -55,3 +55,6 @@ https://www.macrotrends.net/global-metrics/countries/afg/afghanistan/population
 - It is worth reiterating, these estimates are ONLY for the first 20 days of war. In most cases, a lot of children were killed over the course of the many months of war.
 - In the case of Syria, Operation Inherent Resolve was authorized officially a few days before the first official strikes, so it includes one report from Radio Free Syria which goes beyond the 20-day bound.
 - The most depressing decision was whether to keep the Gaza count, because I really wanted to focus on how killing 168 children in Minab in one day is truly unprecedented. In just 20 days, Israel killed more than 3,000 Palestinian children.
+
+
+You can find the Google sheet here: https://docs.google.com/spreadsheets/d/1b-3LW75QQC_DpannuYSsDkxUXEk4iZw3lPWCkkg1mF8/edit?gid=0#gid=0 
