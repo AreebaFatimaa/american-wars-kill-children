@@ -127,10 +127,25 @@
                 0px 0px 10px rgba(0, 0, 0, 0.5);
         }
 
-        .with-image-bg {
-            background-image: url('minab-cover.png');
-        }
+.with-image-bg {
+    background-image: url('minab-cover.png');
+}
 
+.with-image-bg::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 0;
+}
+
+.with-image-bg .content {
+    position: relative;
+    z-index: 1;
+}
         .video-background {
             position: absolute;
             top: 0;
@@ -163,6 +178,14 @@
             
         <p>This marked the beginning of a war which has impacted global oil trade, <a href="https://www.aljazeera.com/news/2026/2/28/irans-supreme-leader-ali-khamenei-killed-in-us-israeli-attacks-reports">killed</a> Iran's supreme leader Ayatollah Ali Khamenei, and dragged the entire region into war. 
             UNICEF released a statement on the same day, marking it "a dangerous moment for millions of children in the region."</p>
+</p>
+
+        <p>A few weeks later, Amnesty International published a <a href="https://www.amnesty.org.au/iran-those-responsible-for-deadly-us-strike-on-school-must-be-held-accountable/">report</a> calling for accountability against those involved in the planning and execution of the “unlawful US strike on a school in Minab, Hormozgan.”
+</p>
+		<P>As several observers called it an “unprecedented” attack on children, it is worth comparing deaths of children across U.S. airstrikes and drone strikes in the first 20 days of a war that the country initiated or participated in. 
+</P>
+		<p>
+
 </p>
     </div>
 
